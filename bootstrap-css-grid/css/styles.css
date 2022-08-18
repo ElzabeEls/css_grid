@@ -1,0 +1,55 @@
+#head {
+    grid-area: header;
+    font-size: 5vw;
+    padding: .5em;
+    background: gold;
+    text-align: center;
+}
+
+#side {
+    grid-area: sidebar;
+    font-size: 5vw;
+    padding: .5em;
+    background: blue;
+    text-align: center;
+}
+
+#ed {
+    grid-area: edu;
+    font-size: 5vw;
+    padding: .5em;
+    background: gold;
+    text-align: center;
+}
+
+#sk {
+    grid-area: skill;
+    font-size: 5vw;
+    padding: .5em;
+    background: gold;
+    text-align: center;
+}
+
+#in {
+    grid-area: int;
+    font-size: 5vw;
+    padding: .5em;
+    background: gold;
+    text-align: center;
+}
+
+#ca {
+    grid-area: carou;
+    font-size: 5vw;
+    padding: .5em;
+    background: gold;
+    text-align: center;
+}
+
+#foot {
+    grid-area: footer;
+    font-size: 5vw;
+    padding: .5em;
+    background: red;
+    text-align: center;
+}
